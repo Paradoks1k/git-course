@@ -18,7 +18,7 @@ const initial_costs = [
   {
     id: "c111",
     date: new Date(2021, 4, 1),
-    description: "Bobr",
+    description: "Bobr2122",
     amount: 32,
   },
 ];
